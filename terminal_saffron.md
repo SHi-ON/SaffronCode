@@ -1,6 +1,6 @@
 Terminal Tips
 
-* Open Ports (Listening): 
+* Open Ports (Listening):  
 	$ netstat -plunt
 * Open Ports (ALL): 
 	$ netstat -nap
