@@ -62,5 +62,3 @@ Terminal Tips
 	$ printf = $ echo
 * Clear the buffer:
 	$ printf "\033c"
-
-
