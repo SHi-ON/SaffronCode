@@ -9,6 +9,7 @@ are the same. but the former one is type-free! 👍🏼🙂
 * C and C++: atoi() for converting (string) char * to int. type cast doesn’t work! e.g. return value from strtok() which returns char *.
 
 * common stdio.h functions:
+![common C stdio funcs](res/c_stdio_common_funcs.png)
 ￼
 
 * fgets() need to be passed by static char array like: 
