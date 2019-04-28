@@ -1,4 +1,4 @@
-###Terminal Tips  
+### Terminal Tips  
   
 * Open Ports (Listening):  
 	$ netstat -plunt  
