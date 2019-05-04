@@ -7,8 +7,10 @@ This repository is an aggregation of hand-picked/hand-crafted coding tips.
 * Terminal
 * Python
 * C/C++
+* LaTeX
 
 ## TODO:
 * adding more topics
+* better categorization
 
 ## All PR are welcomed
