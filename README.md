@@ -14,4 +14,4 @@ This repository is an aggregation of hand-picked/hand-crafted coding, OS, VCS ti
 * adding more topics
 * fine-grained categorization
 
-## All PR are welcome!
+## All PRs are welcome!
