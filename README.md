@@ -1,7 +1,7 @@
-# Code Saffron
-Coding tips which you can apply them like [saffron](https://en.wikipedia.org/wiki/Saffron) 🌸
+# SaffronCode
+Tips which you can apply like [saffron](https://en.wikipedia.org/wiki/Saffron) 🌸
 
-This repository is an aggregation of hand-picked/hand-crafted coding tips.
+This repository is an aggregation of hand-picked/hand-crafted coding, OS, VCS tips.
 
 ## Saffron tips for:
 * Git
@@ -12,6 +12,6 @@ This repository is an aggregation of hand-picked/hand-crafted coding tips.
 
 ## TODO:
 * adding more topics
-* better categorization
+* fine-grained categorization
 
 ## All PR are welcomed
